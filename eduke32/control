@@ -1,0 +1,10 @@
+Package: eduke32
+Version: 
+Description: RetroGame port of Duke Nukem 3D
+Section: emus
+Priority: optional
+Maintainer: pingflood
+Architecture: mipsel
+Homepage: https://github.com/retrofw/eduke32
+Depends:
+Source: https://github.com/retrofw/eduke32

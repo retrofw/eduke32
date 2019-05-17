@@ -1,3 +1,8 @@
+*.elf
+*.ipk
+*.opk
+duke3d-atomic.grp
+
 # Prerequisites
 *.d
 
