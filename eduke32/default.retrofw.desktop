@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=EDuke32
+Comment=Duke Nukem 3D port
+Exec=eduke32.dge
+Icon=eduke32
+Categories=games;
+X-OD-Manual=eduke32.man.txt
+X-OD-Selector=
+X-OD-Filter=
+Terminal=false
+Type=Application
+StartupNotify=true

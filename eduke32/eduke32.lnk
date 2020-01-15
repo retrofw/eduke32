@@ -1,0 +1,4 @@
+title=EDuke32
+description=Duke Nukem 3D port
+exec=/home/retrofw/games/eduke32/eduke32.elf
+clock=600
